@@ -68,6 +68,8 @@
 ![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Google Sheets App Script](https://img.shields.io/badge/Google%20Sheets%20App%20Script-34A853?style=for-the-badge&logo=google&logoColor=white)
+
 
 <h4>Financial/Trading Tools:</h4>
 
