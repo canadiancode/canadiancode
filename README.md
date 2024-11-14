@@ -1,4 +1,5 @@
 <h1>Hello 👋 Welcome to my page!</h1>
+
 <p>I'm Kevin, a Fullstack Developer from Vancouver, Canada. 🇨🇦</p>
 
 <h4>Design Tools:</h4>
@@ -28,6 +29,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Schema](https://img.shields.io/badge/Shopify%20Schema-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
 
 <h4>Application Tools:</h4>
 
@@ -37,17 +41,23 @@
 
 <h4>Server Tools:</h4>
 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS Lightsail](https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vultr suite](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-007BFF?style=for-the-badge&logo=gmail&logoColor=white)
+
+<h4>NPM Packages:</h4>
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-007BFF?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 <h4>Database Tools:</h4>
 
