@@ -33,7 +33,7 @@
 ![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Shopify Schema](https://img.shields.io/badge/Shopify%20Schema-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-<h4>Application Tools:</h4>
+<h4>Mobile Tools:</h4>
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
