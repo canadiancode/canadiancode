@@ -1,6 +1,6 @@
 <h1>Hello 👋 Welcome to my page!</h1>
 
-<p>I'm Kevin, a Fullstack Developer from Vancouver, Canada. 🇨🇦</p>
+<p>I'm Kevin, a Full Stack developer from Vancouver, Canada. 🇨🇦</p>
 
 <p>Expert in Full Stack Shopify Development, specializing in building custom, device-agnostic sections for seamless no-code updates. While my primary focus is web development, I've also expanded my expertise through training in mobile development with React Native and Redux.</p>
 
