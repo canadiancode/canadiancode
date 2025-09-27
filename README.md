@@ -2,7 +2,7 @@
 
 <p>I'm Kevin, a Full Stack developer from Vancouver, Canada. 🇨🇦</p>
 
-<p>Expert in Full Stack Shopify Development, specializing in building custom, device-agnostic sections for seamless no-code updates. While my primary focus is web development, I've also expanded my expertise through training in mobile development with React Native and Redux.</p>
+<p>Specializing in building custom, device-agnostic sections for seamless no-code updates. While my primary focus is web development, I've also expanded my expertise through training in mobile development with React Native and Redux.</p>
 
 <h4>Design Tools:</h4>
 
