@@ -1,8 +1,10 @@
 <h1>Hello 👋 Welcome to my page!</h1>
 
-<p>I'm Kevin, a Full Stack developer from Vancouver, Canada. 🇨🇦</p>
+<p>Kevin here — full-stack Shopify developer based in Vancouver, Canada 🇨🇦</p>
 
-<p>Specializing in building custom, device-agnostic sections for seamless no-code updates. While my primary focus is web development, I've also expanded my expertise through training in mobile development with React Native and Redux.</p>
+<p>I specialize in advanced Shopify theme development, creating modular, high-performance sections that allow merchants to move fast without touching code.</p>
+
+<p>When projects demand more flexibility, I build headless storefronts with Shopify Hydrogen & Oxygen, using React to deliver fast, scalable, and future-proof commerce experiences.</p>
 
 <h4>Design Tools:</h4>
 
