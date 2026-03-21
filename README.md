@@ -2,7 +2,7 @@
 
 <p>Kevin here — full-stack Shopify developer based in Vancouver, Canada 🇨🇦</p>
 
-<p>I specialize in advanced Shopify theme development, creating modular, high-performance sections that allow merchants to move fast without touching code. Well versed in building headless storefronts with Shopify Hydrogen & Oxygen, using React to deliver fast, scalable, and future-proof commerce experiences when projects demands more flexibility.</p>
+<p>I specialize in advanced Shopify theme development, creating modular, high-performance sections that allow merchants to move fast without touching code. Well versed in building headless storefronts with Shopify Hydrogen & Oxygen, I utilize Shopify's React framework to deliver fast, scalable, and future-proof commerce experiences when projects demands more flexibility.</p>
 
 <h4>Design Tools:</h4>
 
